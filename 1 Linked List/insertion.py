@@ -11,8 +11,7 @@ class LinkedList:
         curr = self.head
         while curr.next:
             curr = curr.next
-        else:
-            curr.next = node
+        curr.next = node
         return
 
 linkedList = LinkedList()
