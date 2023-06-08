@@ -1,6 +1,6 @@
 # DSA with Python
 
-Hi, there I am Yogesh Full Stack Developer @conciselabs. Here you can find all the data structures and algorithms that are most often asked in companies.
+Hi, there I am Yogesh Full Stack Developer [@conciselabs](https://www.conciselabs.io/). Here you can find all the data structures and algorithms that are most often asked in companies.
 
 ## Data Structures
 
