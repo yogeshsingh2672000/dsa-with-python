@@ -1,6 +1,6 @@
 # DSA with Python
 
-Hi, there I am Yogesh Full Stack Developer [@conciselabs](https://www.conciselabs.io/). Here you can find all the data structures and algorithms with Implemtions also, Hit a ⭐ if you like🥳.
+Hi, there I am Yogesh Full Stack Developer [@conciselabs](https://www.conciselabs.io/). Here you can find all the data structures and algorithms with Implemtions only in Python🐍, Hit a ⭐ if you like🥳.
 
 ## Data Structures
 
