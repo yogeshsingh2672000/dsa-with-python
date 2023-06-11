@@ -4,7 +4,7 @@ Hi, there I am Yogesh Full Stack Developer [@conciselabs](https://www.conciselab
 
 ## Data Structures
 
-- Linked List
+- Linked List ✅
 - Recursion
 
 ## Algorithms
