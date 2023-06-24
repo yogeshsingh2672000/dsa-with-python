@@ -6,6 +6,8 @@ Hi, there I am Yogesh Full Stack Developer [@conciselabs](https://www.conciselab
 
 - Linked List ✅
 - Recursion ✅
+- Sorting ✅
+- Binary Search ✅
 
 ## Algorithms
 
